@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DragAndDrop</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <item type="id" name="offsetX" />
+	<item type="id" name="offsetY" />
+	<item type="id" name="lastLocationX" />
+	<item type="id" name="lastLocationY" />
+	<item type="id" name="viewTag" />
+
+</resources>
